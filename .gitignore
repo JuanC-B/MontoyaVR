@@ -72,3 +72,19 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/MontoyaVR/Android
+MontoyaVR/Binaries/Android/Install_MontoyaVR-arm64.bat
+MontoyaVR/Binaries/Android/main.1.com.YourCompany.MontoyaVR.obb
+MontoyaVR/Binaries/Android/MontoyaVR-arm64.apk
+MontoyaVR/Binaries/Android/MontoyaVR.target
+MontoyaVR/Binaries/Android/packageInfo.txt
+MontoyaVR/Binaries/Android/Uninstall_MontoyaVR-arm64.bat
+MontoyaVR/Build/Android/src/com/epicgames/unreal/DownloadShim.java
+MontoyaVR/Build/Android/src/com/YourCompany/MontoyaVR/AlarmReceiver.java
+MontoyaVR/Build/Android/src/com/YourCompany/MontoyaVR/DownloaderActivity.java
+MontoyaVR/Build/Android/src/com/YourCompany/MontoyaVR/OBBData.java
+MontoyaVR/Build/Android/src/com/YourCompany/MontoyaVR/OBBDownloaderService.java
+MontoyaVR/Build/Android_ASTC/FileOpenOrder/CookerOpenOrder.log
+MontoyaVR/Build/Android_ASTC/FileOpenOrder/EditorOpenOrder.log
+/MontoyaVR/Intermediate
+/MontoyaVR/Saved
