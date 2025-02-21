@@ -109,3 +109,5 @@ MontoyaVR/Saved/Logs/MontoyaVR.log
 MontoyaVR/Saved/Telemetry/Telemetry.json
 MontoyaVR/Intermediate/CachedAssetRegistry_0.bin
 /MontoyaVR/Saved
+/MontoyaVR/Binaries
+/MontoyaVR/Build
